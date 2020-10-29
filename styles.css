@@ -1,0 +1,26 @@
+body{
+    background-image: url('Images/tea-cig2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: antiquewhite;
+    background-position: center center;
+    background-attachment: fixed;
+
+
+    font-family: 'Courier New', Courier, monospace;
+    color: lightgoldenrodyellow;
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 10%;
+    font-size: 150%;
+}
+
+p{
+    border: solid 2px lightskyblue;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10%;
+}
